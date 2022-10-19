@@ -6,7 +6,7 @@ let superPoder = 'Super Força'
 nome = 'Batman'
 superPoder = "Super Rico"
 console.log(
-    `Ǹome: ${nome}
+    `Nome: ${nome}
     Idade: ${idade}
     Poder: ${superPoder}`
 )

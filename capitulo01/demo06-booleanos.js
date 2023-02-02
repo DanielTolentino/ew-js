@@ -23,3 +23,16 @@ console.log(
     'negação + forçar bool',
     !(!!boolComString)
 )
+
+/* 
+    RETORNA FALSO:
+        - false
+        - 0
+        - [] array vazio
+        - " " string vazia
+        - ''  string vazia (aspas simples)
+        - null
+        - undefined
+        - NaN
+
+*/
